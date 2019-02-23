@@ -5,6 +5,6 @@ if arr.length <= 2
 arr.join(" and ")
 elsif
 arr[arr.length-1]= "and "
-arr.join(",")<<last
+arr.join(", ")<<last
 end
 end
